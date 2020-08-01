@@ -2,4 +2,4 @@
 Multi-Agent Systems
 
 PyGame environment with anthill and its inhabitants
-![Game invironment](/screen.png)
+![Game invironment](/screen.jpg)

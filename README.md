@@ -5,6 +5,7 @@ Tying to use RL in OpenAI gym environments:
 - Guessing Game
 - Hotter Colder
 
+## Ants MAS
 Self-developed PyGame environment with anthill and its inhabitants 🐜
 
 ![Game invironment](/screen.jpg)
